@@ -1,4 +1,3 @@
-
 # Election - DAPP
 
 ## Dependencies
